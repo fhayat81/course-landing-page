@@ -1,1 +1,2 @@
-# course-landing-page
+# Learning Hub - Course Landing Page
+Learning Hub is a fictional course landing page showcasing an attractive front-end with interactive elements. It uses React JS for dynamic components, Tailwind CSS for responsive styling, and AOS (Animate On Scroll) for smooth animations. The page features a responsive design, detailed course listings with call-to-action buttons, instructor profiles, and student testimonials.
